@@ -1,6 +1,4 @@
 ## Vue Webpack Starter Pack
-
-## ERP API
 This is a vue webpack started pack for instant development. it comes preloaded with babel, eslint and gulp setups, just run the commands below and get into development right away.
 
 # Technologies
